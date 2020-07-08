@@ -1,7 +1,6 @@
-echo "# RCO-Portal" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/csmithau/RCO-Portal.git
-git push -u origin master
-                
+# hello-world
+
+Hi Humans!
+
+Hubot here, I like Node.js and Coffeescript (that's what I'm made of!).
+I had tacos on the moon and find them far superior to Earth tacos.
